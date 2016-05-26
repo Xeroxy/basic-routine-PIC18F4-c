@@ -1,0 +1,6 @@
+_main: CODE, 65394 0 10
+_program: CODE, 65462 0 74
+__initialization: CODE, 65378 0 0
+_leds: CODE, 65404 0 58
+_setup: CODE, 65384 0 10
+Total: 152
